@@ -1,0 +1,2 @@
+# testGitSmart
+test
